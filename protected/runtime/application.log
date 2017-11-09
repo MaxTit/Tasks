@@ -1,0 +1,632 @@
+2017/11/07 12:53:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in C:\wamp64\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php?r=gii
+---
+2017/11/07 13:52:37 [error] [php] require_once(../vendor/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:2)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (2)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (2)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 13:54:31 [error] [php] require_once(../vendor/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:2)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (2)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (2)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 13:58:15 [error] [php] require_once(autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:04:59 [error] [php] require_once(GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:06:47 [error] [php] require_once(GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:06:49 [error] [php] require_once(GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:11:04 [error] [php] require_once(C:\wamp64\www\yii\protected\controllers/../GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:13:54 [error] [php] require_once(C:\wamp64\www\yii\protected/../GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:13:58 [error] [php] require_once(C:\wamp64\www\yii\protected/../GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:14:54 [error] [php] require_once(C:\wamp64\www\yii\protected/verdors/GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 14:15:45 [error] [php] Use of undefined constant guzzlehttphttp - assumed 'guzzlehttphttp' (C:\wamp64\www\yii\protected\vendor\GoogleLib\composer\autoload_static.php:129)
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\autoload.php(7): getLoader()
+#1 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(3): require_once()
+#2 C:\wamp64\www\yii\framework\web\CWebApplication.php(354): require()
+#3 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#4 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\vendor\GoogleLib\composer\autoload_static.php (129)
+in C:\wamp64\www\yii\protected\vendor\GoogleLib\composer\autoload_real.php (30)
+in C:\wamp64\www\yii\protected\vendor\GoogleLib\autoload.php (7)
+2017/11/07 14:27:25 [error] [php] require_once(C:\wamp64\www\yii\protected/vendor/vendor/GoogleLib/autoload.php): failed to open stream: No such file or directory (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:3)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#3 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (3)
+in C:\wamp64\www\yii\index.php (13)
+2017/11/07 16:12:28 [error] [exception.GuzzleHttp\Exception\RequestException] exception 'GuzzleHttp\Exception\RequestException' with message 'cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php:187
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php(150): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php(103): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\Proxy.php(51): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php(42): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\RedirectMiddleware.php(68): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(57): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\HandlerStack.php(67): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(268): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(98): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Client->sendAsync(Object(GuzzleHttp\Psr7\Request), Array)
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#14 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Http\REST.php(74): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#15 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#16 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Task\Runner.php(181): call_user_func_array(Array, Array)
+#17 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Http\REST.php(58): Google_Task_Runner->run()
+#18 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(779): Google_Http_REST::execute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...', Array)
+#19 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Service\Resource.php(232): Google_Client->execute(Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#20 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient-services\src\Google\Service\Drive\Resource\Files.php(206): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#21 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(28): Google_Service_Drive_Resource_Files->listFiles(Array)
+#22 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#23 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#24 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#25 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#26 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#27 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#28 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#29 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#30 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#31 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#32 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#33 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#34 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#35 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#36 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+HTTP_REFERER=http://localhost/yii/index.php
+---
+2017/11/07 17:23:27 [error] [exception.GuzzleHttp\Exception\RequestException] exception 'GuzzleHttp\Exception\RequestException' with message 'cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php:187
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php(150): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php(103): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\CurlHandler.php(43): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Handler\Proxy.php(51): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php(42): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\RedirectMiddleware.php(68): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(57): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\HandlerStack.php(67): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(268): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(98): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Client->sendAsync(Object(GuzzleHttp\Psr7\Request), Array)
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#14 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Http\REST.php(74): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#15 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#16 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Task\Runner.php(181): call_user_func_array(Array, Array)
+#17 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Http\REST.php(58): Google_Task_Runner->run()
+#18 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(779): Google_Http_REST::execute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...', Array)
+#19 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Service\Resource.php(232): Google_Client->execute(Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#20 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient-services\src\Google\Service\Drive\Resource\Files.php(206): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#21 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(31): Google_Service_Drive_Resource_Files->listFiles(Array)
+#22 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#23 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#24 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#25 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#26 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#27 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#28 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#29 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#30 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#31 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#32 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#33 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#34 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#35 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#36 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+HTTP_REFERER=http://localhost/yii/index.php
+---
+2017/11/07 17:37:01 [error] [php] Undefined property: Google_Client::$files (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:21)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require()
+#1 C:\wamp64\www\yii\framework\web\CBaseController.php(95): GoogleDiskController->renderInternal()
+#2 C:\wamp64\www\yii\framework\web\CController.php(872): GoogleDiskController->renderFile()
+#3 C:\wamp64\www\yii\framework\web\CController.php(785): GoogleDiskController->renderPartial()
+#4 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): GoogleDiskController->render()
+#5 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#6 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp64\www\yii\framework\web\CController.php(286): GoogleDiskController->runAction()
+#8 C:\wamp64\www\yii\framework\web\CController.php(265): GoogleDiskController->runActionWithFilters()
+#9 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): GoogleDiskController->run()
+#10 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#12 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (21)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (53)
+in C:\wamp64\www\yii\protected\views\googleDisk\index.php (10)
+2017/11/08 11:42:37 [error] [php] Argument 3 passed to GuzzleHttp\Client::request() must be of the type array, string given, called in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php on line 87 and defined (C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php:126)
+Stack trace:
+#0 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(35): GuzzleHttp\Client->setDefaultOption()
+#1 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#2 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require()
+#3 C:\wamp64\www\yii\framework\web\CBaseController.php(95): GoogleDiskController->renderInternal()
+#4 C:\wamp64\www\yii\framework\web\CController.php(872): GoogleDiskController->renderFile()
+#5 C:\wamp64\www\yii\framework\web\CController.php(785): GoogleDiskController->renderPartial()
+#6 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): GoogleDiskController->render()
+#7 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#8 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\wamp64\www\yii\framework\web\CController.php(286): GoogleDiskController->runAction()
+#10 C:\wamp64\www\yii\framework\web\CController.php(265): GoogleDiskController->runActionWithFilters()
+#11 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): GoogleDiskController->run()
+#12 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#13 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#14 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php (126)
+in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php (87)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (35)
+2017/11/08 12:35:21 [error] [php] Undefined index: code (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:60)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CBaseController.php(95): GoogleDiskController->renderInternal()
+#1 C:\wamp64\www\yii\framework\web\CController.php(872): GoogleDiskController->renderFile()
+#2 C:\wamp64\www\yii\framework\web\CController.php(785): GoogleDiskController->renderPartial()
+#3 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): GoogleDiskController->render()
+#4 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#5 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\wamp64\www\yii\framework\web\CController.php(286): GoogleDiskController->runAction()
+#7 C:\wamp64\www\yii\framework\web\CController.php(265): GoogleDiskController->runActionWithFilters()
+#8 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): GoogleDiskController->run()
+#9 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (60)
+in C:\wamp64\www\yii\protected\views\googleDisk\index.php (10)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (9)
+2017/11/08 13:21:04 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://www.googleapis.com/oauth2/v4/token` resulted in a `400 Bad Request` response:
+{
+ "error": "invalid_grant",
+ "error_description": "Bad Request"
+}
+
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\OAuth2.php(492): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(184): Google\Auth\OAuth2->fetchAuthToken(Object(Google\Auth\HttpHandler\Guzzle6HttpHandler))
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(163): Google_Client->fetchAccessTokenWithAuthCode('4/3CQHhwup0zUeb...')
+#14 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(46): Google_Client->authenticate('4/3CQHhwup0zUeb...')
+#15 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#17 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#19 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#20 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#21 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#22 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#27 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#28 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index&&code=4/3CQHhwup0zUebgzdKTOimSD3lI0lYgpxv6l9Gap2szA
+---
+2017/11/08 13:23:08 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://www.googleapis.com/oauth2/v4/token` resulted in a `400 Bad Request` response:
+{
+ "error": "invalid_grant",
+ "error_description": "Bad Request"
+}
+
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\OAuth2.php(492): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(184): Google\Auth\OAuth2->fetchAuthToken(Object(Google\Auth\HttpHandler\Guzzle6HttpHandler))
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(163): Google_Client->fetchAccessTokenWithAuthCode('4/.AABA7TG9rK03...')
+#14 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(46): Google_Client->authenticate('4/.AABA7TG9rK03...')
+#15 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#17 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#19 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#20 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#21 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#22 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#27 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#28 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index&&code=4/.AABA7TG9rK03vMocEukJP9NNs-u4qKFvlQ4y6cwv2cmk5ocFVJoS9m0zJ06IoKuzgzYK5rhCzcQX4ADwmURXDoY
+---
+2017/11/08 13:28:41 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://www.googleapis.com/oauth2/v4/token` resulted in a `400 Bad Request` response:
+{
+ "error": "invalid_grant",
+ "error_description": "Bad Request"
+}
+
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\OAuth2.php(492): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(184): Google\Auth\OAuth2->fetchAuthToken(Object(Google\Auth\HttpHandler\Guzzle6HttpHandler))
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(163): Google_Client->fetchAccessTokenWithAuthCode('4/.AAAZ0hgq6YXH...')
+#14 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(46): Google_Client->authenticate('4/.AAAZ0hgq6YXH...')
+#15 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#17 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#19 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#20 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#21 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#22 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#27 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#28 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index&&code=4/.AAAZ0hgq6YXH90oXZIywRZkBtNec_DIakmFvj4cZIMR-5vgQZXDbf_1MbF_tAnKpeJcM1M9GgP7_s9TBH91amNU
+HTTP_REFERER=http://localhost/yii/index.php?r=site/index
+---
+2017/11/08 13:29:19 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://www.googleapis.com/oauth2/v4/token` resulted in a `400 Bad Request` response:
+{
+ "error": "invalid_grant",
+ "error_description": "Bad Request"
+}
+
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\OAuth2.php(492): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(184): Google\Auth\OAuth2->fetchAuthToken(Object(Google\Auth\HttpHandler\Guzzle6HttpHandler))
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(163): Google_Client->fetchAccessTokenWithAuthCode('4/.AABKvZItiHzj...')
+#14 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(46): Google_Client->authenticate('4/.AABKvZItiHzj...')
+#15 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#17 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#19 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#20 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#21 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#22 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#27 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#28 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index&&code=4/.AABKvZItiHzjMzW-pGqTT-DUYJ6ZP2IeYtIbfZm33JtchiDXEXnykyGPzvPA_cUw0ygqMU5u6uH_5xFb8UzzUQM
+HTTP_REFERER=http://localhost/yii/index.php?r=site/index
+---
+2017/11/08 13:30:39 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://www.googleapis.com/oauth2/v4/token` resulted in a `400 Bad Request` response:
+{
+ "error": "invalid_grant",
+ "error_description": "Bad Request"
+}
+
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\OAuth2.php(492): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(184): Google\Auth\OAuth2->fetchAuthToken(Object(Google\Auth\HttpHandler\Guzzle6HttpHandler))
+#13 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(163): Google_Client->fetchAccessTokenWithAuthCode('4/bZbu8pV0D2fRC...')
+#14 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(46): Google_Client->authenticate('4/bZbu8pV0D2fRC...')
+#15 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#17 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#19 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#20 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#21 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#22 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#27 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#28 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index&&code=4/bZbu8pV0D2fRCMvX2NpAtzIBIyRUrX6lEsdGsBCXpX4
+---
+2017/11/08 14:06:11 [error] [php] array_merge(): Argument #2 is not an array (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:23)
+Stack trace:
+#0 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#1 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require()
+#2 C:\wamp64\www\yii\framework\web\CBaseController.php(95): GoogleDiskController->renderInternal()
+#3 C:\wamp64\www\yii\framework\web\CController.php(872): GoogleDiskController->renderFile()
+#4 C:\wamp64\www\yii\framework\web\CController.php(785): GoogleDiskController->renderPartial()
+#5 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): GoogleDiskController->render()
+#6 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#7 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\wamp64\www\yii\framework\web\CController.php(286): GoogleDiskController->runAction()
+#9 C:\wamp64\www\yii\framework\web\CController.php(265): GoogleDiskController->runActionWithFilters()
+#10 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): GoogleDiskController->run()
+#11 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#13 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (23)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (64)
+in C:\wamp64\www\yii\protected\views\googleDisk\index.php (10)
+2017/11/08 14:07:23 [error] [php] Object of class Google_Service_Drive_FileList could not be converted to string (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:22)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require()
+#1 C:\wamp64\www\yii\framework\web\CBaseController.php(95): GoogleDiskController->renderInternal()
+#2 C:\wamp64\www\yii\framework\web\CController.php(872): GoogleDiskController->renderFile()
+#3 C:\wamp64\www\yii\framework\web\CController.php(785): GoogleDiskController->renderPartial()
+#4 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): GoogleDiskController->render()
+#5 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#6 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp64\www\yii\framework\web\CController.php(286): GoogleDiskController->runAction()
+#8 C:\wamp64\www\yii\framework\web\CController.php(265): GoogleDiskController->runActionWithFilters()
+#9 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): GoogleDiskController->run()
+#10 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#12 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (22)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (64)
+in C:\wamp64\www\yii\protected\views\googleDisk\index.php (10)
+2017/11/08 15:00:20 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://accounts.google.com/o/oauth2/revoke` resulted in a `400 Bad Request` response:
+{
+  "error" : "invalid_token",
+  "error_description" : "Token expired or revoked"
+}
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\AccessToken\Revoke.php(72): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(671): Google_AccessToken_Revoke->revokeToken(Array)
+#13 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(60): Google_Client->revokeToken()
+#14 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#15 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#17 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#19 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#20 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#21 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#22 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#23 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#26 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#27 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+HTTP_REFERER=http://localhost/yii/index.php?r=site/index
+---
+2017/11/08 15:00:25 [error] [exception.GuzzleHttp\Exception\ClientException] exception 'GuzzleHttp\Exception\ClientException' with message 'Client error: `POST https://accounts.google.com/o/oauth2/revoke` resulted in a `400 Bad Request` response:
+{
+  "error" : "invalid_token",
+  "error_description" : "Token expired or revoked"
+}
+' in C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:107
+Stack trace:
+#0 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(246): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(223): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(267): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(225): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\promises\src\Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\guzzlehttp\guzzle\src\Client.php(104): GuzzleHttp\Promise\Promise->wait()
+#10 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\auth\src\HttpHandler\Guzzle6HttpHandler.php(34): GuzzleHttp\Client->send(Object(GuzzleHttp\Psr7\Request), Array)
+#11 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\AccessToken\Revoke.php(72): Google\Auth\HttpHandler\Guzzle6HttpHandler->__invoke(Object(GuzzleHttp\Psr7\Request))
+#12 C:\wamp64\www\yii\protected\vendor\GoogleLib\vendor\google\apiclient\src\Google\Client.php(671): Google_AccessToken_Revoke->revokeToken(Array)
+#13 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(60): Google_Client->revokeToken()
+#14 C:\wamp64\www\yii\protected\views\googleDisk\index.php(10): GoogleDiskController->test()
+#15 C:\wamp64\www\yii\framework\web\CBaseController.php(126): require('C:\\wamp64\\www\\y...')
+#16 C:\wamp64\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp64\\www\\y...', NULL, true)
+#17 C:\wamp64\www\yii\framework\web\CController.php(872): CBaseController->renderFile('C:\\wamp64\\www\\y...', NULL, true)
+#18 C:\wamp64\www\yii\framework\web\CController.php(785): CController->renderPartial('index', NULL, true)
+#19 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): CController->render('index')
+#20 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#21 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#22 C:\wamp64\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#23 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#25 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('googleDisk/inde...')
+#26 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#27 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+HTTP_REFERER=http://localhost/yii/index.php?r=site/index
+---
+2017/11/08 15:14:44 [error] [php] Array to string conversion (C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php:60)
+Stack trace:
+#0 C:\wamp64\www\yii\framework\web\CBaseController.php(95): GoogleDiskController->renderInternal()
+#1 C:\wamp64\www\yii\framework\web\CController.php(872): GoogleDiskController->renderFile()
+#2 C:\wamp64\www\yii\framework\web\CController.php(785): GoogleDiskController->renderPartial()
+#3 C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php(9): GoogleDiskController->render()
+#4 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(49): GoogleDiskController->actionIndex()
+#5 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\wamp64\www\yii\framework\web\CController.php(286): GoogleDiskController->runAction()
+#7 C:\wamp64\www\yii\framework\web\CController.php(265): GoogleDiskController->runActionWithFilters()
+#8 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): GoogleDiskController->run()
+#9 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\wamp64\www\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php?r=googleDisk/index
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (60)
+in C:\wamp64\www\yii\protected\views\googleDisk\index.php (10)
+in C:\wamp64\www\yii\protected\controllers\GoogleDiskController.php (9)
+2017/11/09 13:10:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp64\www\yii\protected\controllers\PagesController.php:157
+Stack trace:
+#0 C:\wamp64\www\yii\protected\controllers\PagesController.php(55): PagesController->loadModel('First page')
+#1 [internal function]: PagesController->actionView('First page')
+#2 C:\wamp64\www\yii\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 C:\wamp64\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PagesController), Object(ReflectionMethod), Array)
+#4 C:\wamp64\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp64\www\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp64\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp64\www\yii\framework\web\CController.php(1148): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp64\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp64\www\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp64\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp64\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp64\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#13 C:\wamp64\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('pages/view')
+#14 C:\wamp64\www\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#15 C:\wamp64\www\yii\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/index.php?r=pages/view&id=First+page
+HTTP_REFERER=http://localhost/yii/index.php?r=pages/index
+---
